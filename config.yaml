@@ -15,3 +15,4 @@ resources:
   memory: 8Gi
   use_gpu: false
 system_packages: []
+spec_version: 2.0
